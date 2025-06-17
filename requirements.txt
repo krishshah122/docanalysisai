@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+Pillow
+PyPDF2
+together
+python-dotenv
