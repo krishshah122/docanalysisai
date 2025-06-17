@@ -33,7 +33,7 @@ class DocumentProcessor:
     @staticmethod
     def process_csv(file):
         df = pd.read_csv(file)
-        summary = DataAnalyzer.get_data_profile(df)
+        summary = DataAnalyzer.getcsvanalysis(df)
         return {"type": "csv", "content": df, "summary": summary}
     @staticmethod
     def process_pdf(file):
