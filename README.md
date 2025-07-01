@@ -32,5 +32,5 @@ A powerful, AI-driven Streamlit web application that allows you to **upload docu
 
 ---
 
-## 📁 Folder Structure
+
 
