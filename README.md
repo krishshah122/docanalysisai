@@ -1,6 +1,6 @@
 # 🧠 Document Analysis 
 
-A powerful, AI-driven Streamlit web application that allows you to **upload documents** (TXT, PDF, CSV, images) and receive smart summaries, ask questions, and generate visualizations — powered by LLMs from Together AI and LangChain.
+A powerful, AI-driven Streamlit web application that allows you to **upload documents** (TXT, PDF, CSV, images) and receive smart summaries, ask questions, and generate visualizations — powered by LLM from Together AI .
 
 ---
 
@@ -21,7 +21,6 @@ A powerful, AI-driven Streamlit web application that allows you to **upload docu
 | Tool         | Purpose                        |
 |--------------|--------------------------------|
 | **Streamlit**| UI and web interface           |
-| **LangChain**| Prompting & orchestration      |
 | **Together AI**| Free LLM APIs (via `together`)|
 | **Plotly**   | Interactive visualizations     |
 | **Seaborn, Matplotlib** | Optional plot rendering |
